@@ -7,13 +7,13 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vanvuvuong&theme=dark)
 
 # Working with Technology Stacks
-<p align="center">
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/linux.svg" />
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/amazon.svg" />
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/terraform.svg" />
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/docker.svg" />
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/kubernetes.svg" />
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/gitlab.svg" />
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/python.svg" />
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/go.svg" />
+<p align="center" style="background-color: white;">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linux.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazon.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/terraform.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kubernetes.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gitlab.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/go.svg" />
 </p>
