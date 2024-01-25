@@ -8,12 +8,13 @@
 
 # Working with Technology Stacks
 <p align="center" style="background-color: white;">
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linux.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazon.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/terraform.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kubernetes.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gitlab.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/go.svg" />
+  <img height="32" width="32" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linux/linux-icon.svg" />
+  <img height="32" width="32" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon/amazon-icon.svg" />
+  <img height="32" width="32" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/terraformio/terraformio-icon.svg" />
+  <img height="32" width="32" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/docker/docker-official.svg" />
+  <img height="32" width="32" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/kubernetes/kubernetes-icon.svg" />
+  <img height="32" width="32" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-icon.svg" />
+  <img height="32" width="32" src="hthttps://www.vectorlogo.zone/util/preview.html?image=/logos/gitlab/gitlab-icon.svg" />
+  <img height="32" width="32" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" />
+  <img height="32" width="32" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/golang/golang-icon.svg" />
 </p>
