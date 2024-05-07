@@ -1,7 +1,7 @@
 # Hello there, I'm a Cloud Engineer. Sadly to say, most of my repos are private!
 
 ## 👋 Tran Dinh Dong's Github Stats
-![Tran Dinh Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanvuvuong&show_icons=true&theme=monokai&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Tran Dinh Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanvuvuong&show_icons=true&theme=monokai&show=prs_merged)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanvuvuong&size_weight=0.5&count_weight=0.5&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vanvuvuong&theme=dark)
