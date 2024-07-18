@@ -2,8 +2,8 @@
 
 <h2>👋 Tran Dinh Dong's Github Stats </h2>
 <div align="center" style="display: inline_block">
-  <img height="200em" src="https://github-readme-stats-mauve-seven-81.vercel.app/api?username=vanvuvuong&show_icons=true&theme=monokai&show=prs_merged,reviews,discussions_started,discussions_answered">
-  <img height="200em" src="https://github-readme-stats-mauve-seven-81.vercel.app/api/top-langs/?username=vanvuvuong&size_weight=0.5&count_weight=0.5&theme=dark&layout=donut&langs_count=8&hide=css,javascript,html">
+  <img height="250em" src="https://github-readme-stats-mauve-seven-81.vercel.app/api?username=vanvuvuong&show_icons=true&theme=monokai&show=prs_merged,reviews,discussions_started,discussions_answered">
+  <img height="250em" src="https://github-readme-stats-mauve-seven-81.vercel.app/api/top-langs/?username=vanvuvuong&size_weight=0.5&count_weight=0.5&theme=dark&layout=donut&langs_count=8&hide=css,javascript,html">
 </div>
 
 <div align="center">
