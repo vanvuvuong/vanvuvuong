@@ -22,3 +22,5 @@
   <img height="50" width="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
   <img height="50" width="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />
 </p>
+<h1>Checking out my curate Linux commands cheatsheet - Part 1</h1>
+<img height="600em" src="images/linux-cheatsheet.png">
