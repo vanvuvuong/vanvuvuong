@@ -24,4 +24,3 @@
 </p>
 <h1>Checking out my curate Linux commands cheatsheet. PDF file in <a href="files/Linux Commands.pdf">here</a>.</h1>
 <img height="600em" src="images/linux-command-1.png">
-<img height="600em" src="images/linux-command-2.png">
