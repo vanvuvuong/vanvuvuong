@@ -22,5 +22,6 @@
   <img height="50" width="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
   <img height="50" width="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />
 </p>
+<h1>Cẩm nang lập trình viên thực dụng <a href="https://github.com/vanvuvuong/ltvtd">tại đây</a>.</h1>
 <h1>Checking out my curate Linux commands cheatsheet. PDF file in <a href="files/Linux Commands.pdf">here</a>.</h1>
 <img height="600em" src="images/linux-command-1.png">
