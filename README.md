@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  ![](https://github-readme-streak-stats-j5gpzk2nc-vanvuvuongs-projects.vercel.app?user=vanvuvuong&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=200)]
+  <a href="https://github.com/vanvuvuong"><img src="https://github-readme-streak-stats-j5gpzk2nc-vanvuvuongs-projects.vercel.app?user=vanvuvuong&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=200" alt="GitHub Streak" /></a>
 </div>
 
 <h1>Working with Technology Stacks</h1>
