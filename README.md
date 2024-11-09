@@ -7,7 +7,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-j5gpzk2nc-vanvuvuongs-projects.vercel.app?user=vanvuvuong&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=200" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats-j5gpzk2nc-vanvuvuongs-projects.vercel.app?user=vanvuvuong&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=200" alt="GitHub Streak" /> -->
+  <img width=390 src="https://streak-stats.demolab.com/?user=vanvuvuong&theme=react&border=61dafb&hide_border=true" alt="vanvuvuong" />
 </div>
 
 <h1>Working with Technology Stacks</h1>
